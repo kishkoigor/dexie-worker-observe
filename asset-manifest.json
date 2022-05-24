@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.js": "/static/js/main.9520c78e.js",
-    "static/js/764.080c4904.chunk.js": "/static/js/764.080c4904.chunk.js",
-    "static/js/119.0aedfe49.chunk.js": "/static/js/119.0aedfe49.chunk.js",
-    "index.html": "/index.html",
-    "main.9520c78e.js.map": "/static/js/main.9520c78e.js.map",
-    "764.080c4904.chunk.js.map": "/static/js/764.080c4904.chunk.js.map",
-    "119.0aedfe49.chunk.js.map": "/static/js/119.0aedfe49.chunk.js.map"
+    "main.js": "/dexie-worker-observe/static/js/main.55f1b0cb.js",
+    "static/js/764.e5a26282.chunk.js": "/dexie-worker-observe/static/js/764.e5a26282.chunk.js",
+    "static/js/119.0aedfe49.chunk.js": "/dexie-worker-observe/static/js/119.0aedfe49.chunk.js",
+    "index.html": "/dexie-worker-observe/index.html",
+    "main.55f1b0cb.js.map": "/dexie-worker-observe/static/js/main.55f1b0cb.js.map",
+    "764.e5a26282.chunk.js.map": "/dexie-worker-observe/static/js/764.e5a26282.chunk.js.map",
+    "119.0aedfe49.chunk.js.map": "/dexie-worker-observe/static/js/119.0aedfe49.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.9520c78e.js"
+    "static/js/main.55f1b0cb.js"
   ]
 }
